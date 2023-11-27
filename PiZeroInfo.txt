@@ -4,3 +4,6 @@ user: jare
 pass: 031902
 
 Bluetooth Serial Resource: https://www.electronicwings.com/raspberry-pi/raspberry-pi-uart-communication-using-python-and-c
+IMU BNO055 I2C communication : https://learn.adafruit.com/adafruit-bno055-absolute-orientation-sensor/python-circuitpython
+Townsend, Kevin. “Adafruit BNO055 Absolute Orientation Sensor.” Adafruit Learning System, learn.adafruit.com/adafruit-bno055-absolute-orientation-sensor/python-circuitpython. Accessed 26 Nov. 2023. 
+https://www.youtube.com/watch?v=092xFEmAS98&t=832s
